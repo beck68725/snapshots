@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="card"
+>
+  <div
+    className="card"
+    style={
+      Object {
+        "width": "18rem",
+      }
+    }
+  >
+    <img
+      className="card-img-top"
+      src="https://github.com/beck68725 "
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        Rebecca Coburn
+      </div>
+      <h1>
+        Coding is great!!!
+      </h1>
+      <p
+        className="card-text"
+      >
+        I am a coder!!
+      </p>
+    </div>
+  </div>
+</div>
+`;
